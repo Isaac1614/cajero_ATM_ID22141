@@ -1,0 +1,20 @@
+C:\Users\Licenciaturas\source\repos\banco\bin\Debug\banco.exe.config
+C:\Users\Licenciaturas\source\repos\banco\bin\Debug\banco.exe
+C:\Users\Licenciaturas\source\repos\banco\bin\Debug\banco.pdb
+C:\Users\Licenciaturas\source\repos\banco\obj\Debug\banco.csproj.AssemblyReference.cache
+C:\Users\Licenciaturas\source\repos\banco\obj\Debug\banco.Form1.resources
+C:\Users\Licenciaturas\source\repos\banco\obj\Debug\banco.Properties.Resources.resources
+C:\Users\Licenciaturas\source\repos\banco\obj\Debug\banco.csproj.GenerateResource.cache
+C:\Users\Licenciaturas\source\repos\banco\obj\Debug\banco.csproj.CoreCompileInputs.cache
+C:\Users\Licenciaturas\source\repos\banco\obj\Debug\banco.exe
+C:\Users\Licenciaturas\source\repos\banco\obj\Debug\banco.pdb
+C:\Users\arsek\Documents\Semestre 4\POO\banco\bin\Debug\banco.exe.config
+C:\Users\arsek\Documents\Semestre 4\POO\banco\bin\Debug\banco.exe
+C:\Users\arsek\Documents\Semestre 4\POO\banco\bin\Debug\banco.pdb
+C:\Users\arsek\Documents\Semestre 4\POO\banco\obj\Debug\banco.csproj.AssemblyReference.cache
+C:\Users\arsek\Documents\Semestre 4\POO\banco\obj\Debug\banco.Form1.resources
+C:\Users\arsek\Documents\Semestre 4\POO\banco\obj\Debug\banco.Properties.Resources.resources
+C:\Users\arsek\Documents\Semestre 4\POO\banco\obj\Debug\banco.csproj.GenerateResource.cache
+C:\Users\arsek\Documents\Semestre 4\POO\banco\obj\Debug\banco.csproj.CoreCompileInputs.cache
+C:\Users\arsek\Documents\Semestre 4\POO\banco\obj\Debug\banco.exe
+C:\Users\arsek\Documents\Semestre 4\POO\banco\obj\Debug\banco.pdb
